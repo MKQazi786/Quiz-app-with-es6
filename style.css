@@ -1,15 +1,130 @@
 *{
     font-family: 'Poppins', sans-serif;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 body{
     margin: 0rem;
     padding: 0rem;
+    min-width: 320px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
 }
 
 header{
     display: flex;
     align-items: center;
+    background-color: #eaeaea;
+    box-shadow: -9px 0px 20px black;
+    text-shadow: 1.5px 1px 1px black;
 }
 
+header img{
+    margin-top: -1rem;
+    margin-left: -1.2rem;
+    width: 6rem;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+}
+
+.quizContainer,.result{
+    display: none;
+    align-self: center;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.quizSelector{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+    /* display: none; */
+    max-width: 908px;
+}
+
+.quizDiv{
+    display: none;
+    display: inline-block;
+    font-size: 1.4rem;
+    padding: 2.7rem 2.5rem;
+    margin: 1rem;
+    border: 1rem;
+    border-color: black;
+    background-color: #bbb6b6;
+    border-radius: 1rem;
+    min-width:7%;
+    text-align:center;
+    box-shadow: 0px 0px 5px black;
+}
+
+footer {
+    background-color: #eaeaea;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    box-shadow: -1px 2px 25px black;
+    text-shadow: 1px 0px 1px black;
+    font-weight:bolder ;
+    margin-top: auto;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    column-gap: 0.7rem;
+    margin: 0.2rem;
+    font-size: 1.6rem;
+}
+
+.icon a {
+    color: black;
+}
+
+.quizQuestion{
+    padding: 1rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.quizOptions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.answerBtn{
+    font-size: medium;
+    width: 100%;
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+    background-color: #eaeaea;
+    border: 0px;
+}
+
+.btn-my{
+    color:  #eaeaea;
+    text-shadow: 1px 0px 1px black;
+    background-color: black;    
+}
+
+.btn-my:hover{
+    background-color: #bbb6b6;
+}

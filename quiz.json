@@ -1,325 +1,322 @@
-{
-    "quiz": [
-      [
-        {
-          "question": "Who scored the most runs in a single World Cup?",
-          "options": [
-            "Sachin Tendulkar",
-            "Ricky Ponting",
-            "Brian Lara",
-            "Martin Guptill"
-          ],
-          "correct_answer": "Sachin Tendulkar"
-        },
-        {
-          "question": "In which olymic event did Arshad Nadeem win a gold medal in 2024?",
-          "options": [
-            "Javelin Throw",
-            "Shot Put",
-            "Discus Throw",
-            "Hammer Throw"
-          ],
-          "correct_answer": "Javelin Throw"
-        },
-        {
-          "question": "Which movie won the Oscar for Best Picture in 2023?",
-          "options": [
-            "Everything Everywhere All at Once",
-            "Avatar: The Way of Water",
-            "Top Gun: Maverick",
-            "The Fabelmans"
-          ],
-          "correct_answer": "Everything Everywhere All at Once"
-        }
+[
+  [
+    {
+      "question": "Who scored the most runs in a single World Cup?",
+      "options": [
+        "Sachin Tendulkar",
+        "Ricky Ponting",
+        "Brian Lara",
+        "Martin Guptill"
       ],
-      [
-        {
-          "question": "Who is the current captain of the Pakistan cricket team in T20s?",
-          "options": [
-            "Sarfaraz Ahmed",
-            "Babar Azam",
-            "Shoaib Malik",
-            "Shadab Khan"
-          ],
-          "correct_answer": "Babar Azam"
-        },
-        {
-          "question": "Who directed the movie 'Inception'?",
-          "options": [
-            "Steven Spielberg",
-            "Christopher Nolan",
-            "James Cameron",
-            "Quentin Tarantino"
-          ],
-          "correct_answer": "Christopher Nolan"
-        },
-        {
-          "question": "Who won the ICC Champions Trophy in 2017?",
-          "options": [
-            "India",
-            "Pakistan",
-            "Australia",
-            "England"
-          ],
-          "correct_answer": "Pakistan"
-        }
+      "correct_answer": "Sachin Tendulkar"
+    },
+    {
+      "question": "In which olymic event did Arshad Nadeem win a gold medal in 2024?",
+      "options": [
+        "Javelin Throw",
+        "Shot Put",
+        "Discus Throw",
+        "Hammer Throw"
       ],
-      [
-        {
-          "question": "Who wrote the play 'Romeo and Juliet'?",
-          "options": [
-            "William Shakespeare",
-            "Charles Dickens",
-            "Jane Austen",
-            "Mark Twain"
-          ],
-          "correct_answer": "William Shakespeare"
-        },
-        {
-          "question": "Who has the most sixes in T20 internationals for Pakistan?",
-          "options": [
-            "Shahid Afridi",
-            "Shoaib Malik",
-            "Babar Azam",
-            "Fakhar Zaman"
-          ],
-          "correct_answer": "Shahid Afridi"
-        },
-        {
-          "question": "What is the capital of Australia?",
-          "options": [
-            "Sydney",
-            "Melbourne",
-            "Canberra",
-            "Brisbane"
-          ],
-          "correct_answer": "Canberra"
-        }
+      "correct_answer": "Javelin Throw"
+    },
+    {
+      "question": "Which movie won the Oscar for Best Picture in 2023?",
+      "options": [
+        "Everything Everywhere All at Once",
+        "Avatar: The Way of Water",
+        "Top Gun: Maverick",
+        "The Fabelmans"
       ],
-      [
-        {
-          "question": "Which actor played the role of 'Joker' in the 2019 movie?",
-          "options": [
-            "Joaquin Phoenix",
-            "Heath Ledger",
-            "Jack Nicholson",
-            "Jared Leto"
-          ],
-          "correct_answer": "Joaquin Phoenix"
-        },
-        {
-          "question": "Who is the lead actor in the movie 'Pathaan'?",
-          "options": [
-            "Shah Rukh Khan",
-            "Salman Khan",
-            "Akshay Kumar",
-            "Ranbir Kapoor"
-          ],
-          "correct_answer": "Shah Rukh Khan"
-        },
-        {
-          "question": "Which Bollywood movie won the National Film Award for Best Film in 2023?",
-          "options": [
-            "RRR",
-            "Gangubai Kathiawadi",
-            "Brahmastra",
-            "Kantara"
-          ],
-          "correct_answer": "RRR"
-        }
+      "correct_answer": "Everything Everywhere All at Once"
+    }
+  ],
+  [
+    {
+      "question": "Who is the current captain of the Pakistan cricket team in T20s?",
+      "options": [
+        "Sarfaraz Ahmed",
+        "Babar Azam",
+        "Shoaib Malik",
+        "Shadab Khan"
       ],
-      [
-        {
-          "question": "Which planet is known as the Red Planet?",
-          "options": [
-            "Earth",
-            "Mars",
-            "Jupiter",
-            "Venus"
-          ],
-          "correct_answer": "Mars"
-        },
-        {
-          "question": "Which bowler has the most wickets in Test cricket?",
-          "options": [
-            "Shane Warne",
-            "Muttiah Muralitharan",
-            "James Anderson",
-            "Anil Kumble"
-          ],
-          "correct_answer": "Muttiah Muralitharan"
-        },
-        {
-          "question": "Who scored a century on their Test debut for Pakistan?",
-          "options": [
-            "Inzamam-ul-Haq",
-            "Younis Khan",
-            "Mohammad Yousuf",
-            "Fawad Alam"
-          ],
-          "correct_answer": "Fawad Alam"
-        }
+      "correct_answer": "Babar Azam"
+    },
+    {
+      "question": "Who directed the movie 'Inception'?",
+      "options": [
+        "Steven Spielberg",
+        "Christopher Nolan",
+        "James Cameron",
+        "Quentin Tarantino"
       ],
-      [
-        {
-          "question": "What is Arshad Nadeem's set world record in the Olympic 2024 Javelin Throw?",
-          "options": [
-            "85.16 meters",
-            "86.29 meters",
-            "88.55 meters",
-            "92.97 meters"
-          ],
-          "correct_answer": "92.97 meters"
-        },
-        {
-          "question": "Who scored the highest individual score in an ODI match?",
-          "options": [
-            "Rohit Sharma",
-            "Martin Guptill",
-            "Chris Gayle",
-            "Fakhar Zaman"
-          ],
-          "correct_answer": "Rohit Sharma"
-        },
-        {
-          "question": "Which country won the FIFA World Cup in 2018?",
-          "options": [
-            "Brazil",
-            "Germany",
-            "France",
-            "Argentina"
-          ],
-          "correct_answer": "France"
-        }
+      "correct_answer": "Christopher Nolan"
+    },
+    {
+      "question": "Who won the ICC Champions Trophy in 2017?",
+      "options": [
+        "India",
+        "Pakistan",
+        "Australia",
+        "England"
       ],
-      [
-        {
-          "question": "What is the largest planet in our solar system?",
-          "options": [
-            "Earth",
-            "Mars",
-            "Jupiter",
-            "Saturn"
-          ],
-          "correct_answer": "Jupiter"
-        },
-        {
-          "question": "Who won the Nobel Prize in Literature in 2021?",
-          "options": [
-            "Kazuo Ishiguro",
-            "Louise Glück",
-            "Abdulrazak Gurnah",
-            "Olga Tokarczuk"
-          ],
-          "correct_answer": "Abdulrazak Gurnah"
-        },
-        {
-          "question": "Which country has the most gold medals in the Olympics?",
-          "options": [
-            "USA",
-            "China",
-            "Russia",
-            "Germany"
-          ],
-          "correct_answer": "USA"
-        }
+      "correct_answer": "Pakistan"
+    }
+  ],
+  [
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
       ],
-      [
-        {
-          "question": "Who discovered penicillin?",
-          "options": [
-            "Alexander Fleming",
-            "Marie Curie",
-            "Louis Pasteur",
-            "Thomas Edison"
-          ],
-          "correct_answer": "Alexander Fleming"
-        },
-        {
-          "question": "What is the chemical symbol for water?",
-          "options": [
-            "H2O",
-            "O2",
-            "CO2",
-            "H2SO4"
-          ],
-          "correct_answer": "H2O"
-        },
-        {
-          "question": "Which country is known as the Land of the Rising Sun?",
-          "options": [
-            "China",
-            "Japan",
-            "South Korea",
-            "Thailand"
-          ],
-          "correct_answer": "Japan"
-        }
+      "correct_answer": "William Shakespeare"
+    },
+    {
+      "question": "Who has the most sixes in T20 internationals for Pakistan?",
+      "options": [
+        "Shahid Afridi",
+        "Shoaib Malik",
+        "Babar Azam",
+        "Fakhar Zaman"
       ],
-      [
-        {
-          "question": "Who painted the Mona Lisa?",
-          "options": [
-            "Leonardo da Vinci",
-            "Vincent van Gogh",
-            "Pablo Picasso",
-            "Claude Monet"
-          ],
-          "correct_answer": "Leonardo da Vinci"
-        },
-        {
-          "question": "Which element has the atomic number 1?",
-          "options": [
-            "Helium",
-            "Oxygen",
-            "Hydrogen",
-            "Carbon"
-          ],
-          "correct_answer": "Hydrogen"
-        },
-        {
-          "question": "Which country is the largest by land area?",
-          "options": [
-            "China",
-            "USA",
-            "Canada",
-            "Russia"
-          ],
-          "correct_answer": "Russia"
-        }
+      "correct_answer": "Shahid Afridi"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
       ],
-      [
-        {
-          "question": "What is the smallest country in the world by area?",
-          "options": [
-            "Monaco",
-            "Vatican City",
-            "San Marino",
-            "Liechtenstein"
-          ],
-          "correct_answer": "Vatican City"
-        },
-        {
-          "question": "Which organ in the human body is responsible for pumping blood?",
-          "options": [
-            "Lungs",
-            "Brain",
-            "Heart",
-            "Liver"
-          ],
-          "correct_answer": "Heart"
-        },
-        {
-          "question": "Which metal is liquid at room temperature?",
-          "options": [
-            "Mercury",
-            "Gold",
-            "Silver",
-            "Copper"
-          ],
-          "correct_answer": "Mercury"
-        }
-      ]
-    ]
-  }
-  
+      "correct_answer": "Canberra"
+    }
+  ],
+  [
+    {
+      "question": "Which actor played the role of 'Joker' in the 2019 movie?",
+      "options": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jack Nicholson",
+        "Jared Leto"
+      ],
+      "correct_answer": "Joaquin Phoenix"
+    },
+    {
+      "question": "Who is the lead actor in the movie 'Pathaan'?",
+      "options": [
+        "Shah Rukh Khan",
+        "Salman Khan",
+        "Akshay Kumar",
+        "Ranbir Kapoor"
+      ],
+      "correct_answer": "Shah Rukh Khan"
+    },
+    {
+      "question": "Which Bollywood movie won the National Film Award for Best Film in 2023?",
+      "options": [
+        "RRR",
+        "Gangubai Kathiawadi",
+        "Brahmastra",
+        "Kantara"
+      ],
+      "correct_answer": "RRR"
+    }
+  ],
+  [
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "correct_answer": "Mars"
+    },
+    {
+      "question": "Which bowler has the most wickets in Test cricket?",
+      "options": [
+        "Shane Warne",
+        "Muttiah Muralitharan",
+        "James Anderson",
+        "Anil Kumble"
+      ],
+      "correct_answer": "Muttiah Muralitharan"
+    },
+    {
+      "question": "Who scored a century on their Test debut for Pakistan?",
+      "options": [
+        "Inzamam-ul-Haq",
+        "Younis Khan",
+        "Mohammad Yousuf",
+        "Fawad Alam"
+      ],
+      "correct_answer": "Fawad Alam"
+    }
+  ],
+  [
+    {
+      "question": "What is Arshad Nadeem's set world record in the Olympic 2024 Javelin Throw?",
+      "options": [
+        "85.16 meters",
+        "86.29 meters",
+        "88.55 meters",
+        "92.97 meters"
+      ],
+      "correct_answer": "92.97 meters"
+    },
+    {
+      "question": "Who scored the highest individual score in an ODI match?",
+      "options": [
+        "Rohit Sharma",
+        "Martin Guptill",
+        "Chris Gayle",
+        "Fakhar Zaman"
+      ],
+      "correct_answer": "Rohit Sharma"
+    },
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "France",
+        "Argentina"
+      ],
+      "correct_answer": "France"
+    }
+  ],
+  [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct_answer": "Jupiter"
+    },
+    {
+      "question": "Who won the Nobel Prize in Literature in 2021?",
+      "options": [
+        "Kazuo Ishiguro",
+        "Louise Glück",
+        "Abdulrazak Gurnah",
+        "Olga Tokarczuk"
+      ],
+      "correct_answer": "Abdulrazak Gurnah"
+    },
+    {
+      "question": "Which country has the most gold medals in the Olympics?",
+      "options": [
+        "USA",
+        "China",
+        "Russia",
+        "Germany"
+      ],
+      "correct_answer": "USA"
+    }
+  ],
+  [
+    {
+      "question": "Who discovered penicillin?",
+      "options": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Louis Pasteur",
+        "Thomas Edison"
+      ],
+      "correct_answer": "Alexander Fleming"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": [
+        "H2O",
+        "O2",
+        "CO2",
+        "H2SO4"
+      ],
+      "correct_answer": "H2O"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "correct_answer": "Japan"
+    }
+  ],
+  [
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet"
+      ],
+      "correct_answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Hydrogen",
+        "Carbon"
+      ],
+      "correct_answer": "Hydrogen"
+    },
+    {
+      "question": "Which country is the largest by land area?",
+      "options": [
+        "China",
+        "USA",
+        "Canada",
+        "Russia"
+      ],
+      "correct_answer": "Russia"
+    }
+  ],
+  [
+    {
+      "question": "What is the smallest country in the world by area?",
+      "options": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "correct_answer": "Vatican City"
+    },
+    {
+      "question": "Which organ in the human body is responsible for pumping blood?",
+      "options": [
+        "Lungs",
+        "Brain",
+        "Heart",
+        "Liver"
+      ],
+      "correct_answer": "Heart"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "Mercury",
+        "Gold",
+        "Silver",
+        "Copper"
+      ],
+      "correct_answer": "Mercury"
+    }
+  ]
+]
